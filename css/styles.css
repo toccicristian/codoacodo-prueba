@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    background-color:#555555
+}
+
+h1{
+    background-color: #333333;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 1em;
+
+}
+
+nav{
+    background-color:#333333;
+    padding-top: 0;
+    padding-bottom: .5em;
+}
+
+.nav-link{
+    text-decoration:none;
+    color: #AAAAAA;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.centrado{
+    text-align:center;
+}
