@@ -27,3 +27,7 @@ nav{
 .centrado{
     text-align:center;
 }
+
+#frame-muestra{
+    border:#AAAAAA;
+}
